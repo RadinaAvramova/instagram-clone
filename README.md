@@ -1,2 +1,3 @@
-# instagram-clone
-instagram-clone
+# Fullstack Instagram Clone Tutorial
+
+### Built With React, Firebase && Chakra UI
